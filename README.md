@@ -29,6 +29,10 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-or
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original-wordmark.svg"   width="64" height="64"/> <img
 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg"   width="64" height="64"/> <img
 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nginx/nginx-original.svg"   width="64" height="64"/>
+
+
+
+<a href="https://www.linkedin.com/in/amir-mn95/"><img src="https://icongr.am/devicon/linkedin-original.svg?size=85&color=currentColor"/></a>
           
           
 
